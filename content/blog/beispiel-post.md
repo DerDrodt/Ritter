@@ -4,6 +4,8 @@ description: Das hier ist die Beispielbeschreibung des Textes. Im Prinzip ist es
 date: 2021-02-07
 ---
 
+Am besten schaust du dir die [Datei](https://github.com/DerDrodt/Ritter/blob/main/content/blog/beispiel-post.md) an, die zu diesem Text führt, um das alles zu verstehen.
+
 Hier kommt schließlich der Text. Alle Dateien müssen dieses Format haben. Jetzt noch etwas Text über das Format, dass auch gleich noch Listen und **Fett**-/_Kursivschrift_ zeigt.
 
 Jeder Blog-Post-Datei **muss** mit dem Block oben beginnen (dem _Frontmatter_-Block). Also zunächst `---` dann der Titel, die Beschreibung und das Datum (immer in der Form `yyyy-mm-dd`). Nach diesen _Metadaten_ wieder ein `---`.
